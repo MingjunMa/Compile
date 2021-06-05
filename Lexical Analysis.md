@@ -67,11 +67,14 @@ number -> [0-9]		用来表示所有的数字
 
 **举例**：以正则式： **a|ab***  举例，首先根据算符优先级应先进行 b 的闭包运算（图1），然后进行a与b闭包的连接运算（图2），最后进行选择运算（图3），在绘画图3时，由于该图为该正则式的最终图因此要在状态0前置begin箭头，状态8要画为双同心圆形以示状态8为最终状态。
 
-图1：<img src="assets/image-20210605172025897.png" alt="image-20210605172025897" style="zoom:33%;" />
+图1：
+<img src="assets/image-20210605172025897.png" alt="image-20210605172025897" style="zoom:33%;" />
 
-图2：<img src="assets/image-20210605172136648.png" alt="image-20210605172136648" style="zoom:33%;" />
+图2：
+<img src="assets/image-20210605172136648.png" alt="image-20210605172136648" style="zoom:33%;" />
 
-图3：<img src="assets/image-20210605172500312.png" alt="image-20210605172500312" style="zoom:45%;" />
+图3：
+<img src="assets/image-20210605172500312.png" alt="image-20210605172500312" style="zoom:45%;" />
 
 
 
