@@ -130,7 +130,7 @@ eg:如**图4**中NFA所示，假设T={0，1}，求Dtran[T, a]
 
 **DFA为**：
 
-<img src="assets/image-20210605212129898.png" alt="image-20210605212129898" style="zoom:50%;" align='left'/>
+<img src="assets/image-20210605212129898.png" alt="image-20210605212129898" style="zoom:50%;"/>
 
 
 
@@ -146,7 +146,7 @@ eg:如**图4**中NFA所示，假设T={0，1}，求Dtran[T, a]
 
 故**化简后的DFA(minDFA)**为：
 
-<img src="assets/image-20210605214001240.png" alt="image-20210605214001240" style="zoom:50%;" align='left'/>
+<img src="assets/image-20210605214001240.png" alt="image-20210605214001240" style="zoom:50%;"/>
 
 
 
